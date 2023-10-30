@@ -1,0 +1,4 @@
+a22:25:57.551 [Test worker] INFO hello.advanced.trace.logtrace.FieldLogTrace -- [d6ff4eb1] hello1
+e22:25:57.556 [Test worker] INFO hello.advanced.trace.logtrace.FieldLogTrace -- [d6ff4eb1] |-->hello2
+n22:25:57.556 [Test worker] INFO hello.advanced.trace.logtrace.FieldLogTrace -- [d6ff4eb1] |<--hello2 time=0ms
+j22:25:57.556 [Test worker] INFO hello.advanced.trace.logtrace.FieldLogTrace -- [d6ff4eb1] hello1 time=7ms

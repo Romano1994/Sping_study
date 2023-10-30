@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.advanced.trace.hellotrace.template.TemplateMethodTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-20T10:29:23" hostname="KIMCHANYOUNG" time="0.026">
+  <properties/>
+  <testcase name="templateMethodV1()" classname="hello.advanced.trace.hellotrace.template.TemplateMethodTest" time="0.026"/>
+  <system-out><![CDATA[19:29:23.838 [Test worker] INFO hello.advanced.trace.hellotrace.template.code.SubClassLogin1 -- 비즈니스 로직1 실행
+19:29:23.846 [Test worker] INFO hello.advanced.trace.hellotrace.template.code.AbstractTemplate -- result time = 9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
